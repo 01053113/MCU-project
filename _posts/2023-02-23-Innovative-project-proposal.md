@@ -22,7 +22,7 @@ This homework is to propose an innovative project and describe the key features,
 ---
 ## 機器人範例
 <iframe width="662" height="372" src="https://www.youtube.com/embed/ivqws8OfZYY" title="東南科技大學電機系_微奈米與機器人實驗室_黃祈翰_2019_亞洲機器人競賽_德霖科技大學_自走車競速_D" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+![](https://github.com/01053113/MCU-project/blob/main/images/%E4%B8%8B%E8%BC%89.png?raw=true)
 ### 應用功能說明
 1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
 2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
